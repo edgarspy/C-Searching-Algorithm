@@ -17,5 +17,5 @@ int main(void)
         }
     }
     printf("Number is not Found");
-    return 1;
+    return 2;
 }
